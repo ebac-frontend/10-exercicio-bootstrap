@@ -9,6 +9,6 @@ A entrega deste exercício consiste em:
 
 2) Nesta página HTML, crie um formulário de cadastro que deverá conter os campos: nome, e-mail e telefone, e um botão para o envio;
 
-3) Aplique as classes do Bootstrap nos elementos do formulário;
+3) Aplique as classes do Bootstrap nos elementos do formulário.
 
 Deploy: https://eduarda-magnago.github.io/exercicio_bootstrap/
