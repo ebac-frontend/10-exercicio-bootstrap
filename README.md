@@ -1,4 +1,4 @@
-# Formulário de Contato
+# Exercício 10 - Praticando o Bootstrap com um Formulário de Contato
 Objetivo da atividade: Treinar as possibilidades de estilos com o Bootstrap criando um formulário de contato, aprendendo também a utilização do "collapse" nos elementos.
 
 Tema escolhido pelo aluno(a): Empresa de skin care fictícia.
