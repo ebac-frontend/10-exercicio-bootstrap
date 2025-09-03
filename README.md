@@ -11,4 +11,4 @@ A entrega deste exercício consiste em:
 
 3) Aplique as classes do Bootstrap nos elementos do formulário.
 
-Deploy: https://eduarda-magnago.github.io/exercicio_bootstrap/
+Deploy: https://ebac-frontend.github.io/10-exercicio-bootstrap/
